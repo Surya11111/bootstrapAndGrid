@@ -1,0 +1,49 @@
+nav a{
+  text-decoration: none;
+  font-family: lato;
+  font-size: 150%;
+  color:black;
+  display: inline;
+}
+a:hover{
+  color:#c3c3c3;
+}
+.grid_12 .grid_2 nav a:hover{
+  color:#c3c3c3;
+}
+.grid_12 .grid_2 img {
+    border: 1% solid #ccc;
+    float: left;
+}
+.grid_12 .grid_2 img:hover {
+    border: 1% solid #777;
+    width: 165%;
+}
+@keyframes example {
+    from {background-image:url("../images/incre.jpg");}
+    to {background-image:url("../images/incremn.jpg");}
+}
+.animate{
+  font-family: Arial;
+  -webkit-animation-name: example;
+    -webkit-animation-duration: 950s;
+    animation-name: example;
+    animation-duration: 20s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+-webkit @keyframes example{
+  from {background-image:url("../images/hotel/bg3.jpg");}
+  to {background-image:url("../images/hotel/bg2.jpg");}
+}
+.container_12 .two{
+background-color:#2a2730;
+}
+.x
+{
+  visibility: hidden;
+}
+.xx
+{
+background-color:rgb(255, 255, 100);
+}

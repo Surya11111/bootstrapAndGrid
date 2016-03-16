@@ -1,0 +1,69 @@
+nav a{
+  text-decoration: none;
+  font-family: lato;
+  font-size: 140%;
+  color:black;
+  display: inline;
+}
+a:hover{
+  color:#c3c3c3;
+}
+.grid_12 .grid_4 nav a:hover{
+  color:#c3c3c3;
+}
+.grid_12 .grid_4 img {
+    border: 1% solid #ccc;
+    float: left;
+}
+.grid_12 .grid_4 img:hover {
+    border: 1% solid #777;
+    opacity: 0.8;
+}
+.grid_12 .grid_4 img:hover {
+    border: 5% solid #777;
+    opacity: 0.8;
+}
+.container_12 .two{
+background-color:#2a2730;
+}
+.xx
+{
+background-color:rgb(255, 255, 100);
+}
+.xxx
+{
+  font-size:150%;color:red;font-family:lato;font-style:italic;
+}
+.xxxx
+{
+  font-family:verdana;
+  color:#ff0000;
+  font-style:italic;
+  font-size:200%;
+}
+.hr{
+  background-color:black;
+}
+footer
+{
+  background:#f0f0f0;
+}
+.ax
+{
+  color: red;
+}
+.aaa
+{
+  font-weight:normal;font-family:lato;color:red;font-weight:bold;
+}
+.am
+{
+  height:70%;
+
+  padding-left: 10%;
+}
+
+#rer
+{
+  color:red;
+}

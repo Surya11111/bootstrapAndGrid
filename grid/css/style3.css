@@ -1,0 +1,50 @@
+nav a{
+  text-decoration: none;
+  font-family: lato;
+  font-size: 150%;
+  color:black;
+  display: inline;
+}
+a:hover{
+  color:#c3c3c3;
+}
+.grid_12 .grid_4 nav a:hover{
+  color:#c3c3c3;
+}
+img {
+    border: 1% solid #ccc;
+    float: left;
+}
+img:hover {
+    border: 1% solid #777;
+    opacity: 0.8;
+}
+.container_12 .two{
+background-color:#2a2730;
+}
+ .x
+ {
+   background-color:rgb(255, 255, 100);
+ }
+.container_12 .grid_12 img
+{
+  border:none;
+}
+.xx
+{
+  font-size:300%;color:red;font-family:verdana;
+  }
+footer{
+  background: #f0f0f0;
+}
+.container_12 .grid_12:first-child
+{
+  background-color: #2a2730;
+}
+.xxxxx{
+   background-color:rgb(255, 255, 100);
+}
+#rer{
+  color:red;
+  width: 5%;
+}
